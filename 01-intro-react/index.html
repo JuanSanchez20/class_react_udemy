@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Carga React -->
+    <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+    <title>ReactApp</title>
+</head>
+<body>
+    <!-- Creamos la etiqueta a editar -->
+    <div id="root" class=""></div>
+    <script type="text/babel">
+
+        // Lo referenciamos
+        const divRoot = document.querySelector('#root');
+
+        // Crear el contenido
+        const h1Tag = <h1>Hola Mundo</h1>;
+
+        // Renderizamos el contenido
+        ReactDOM.render( h1Tag, divRoot );
+
+    </script>
+</body>
+</html>
