@@ -18,9 +18,10 @@
 
         // Lo referenciamos
         const divRoot = document.querySelector('#root');
-
+        // Variable que contiene mi nombre
+        const name = 'Juan';
         // Crear el contenido
-        const h1Tag = <h1>Hola Mundo</h1>;
+        const h1Tag = <h1>Hola Mundo {name}</h1>;
 
         // Renderizamos el contenido
         ReactDOM.render( h1Tag, divRoot );
