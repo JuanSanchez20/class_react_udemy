@@ -4,3 +4,4 @@ Temas dados:
 - Scope
 - Collback | map
 - Variables (let) | Constantes (const)
+- Formas de declarar una función
