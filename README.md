@@ -8,4 +8,6 @@ Temas dados:
 - Desestructuración (Objetos | Arreglos)
 - Importasiones | Exportaciones
 - Promesas | Encadenación
-- FetchAPI
+- FetchAPI | fetch
+- Async | Await | Try | Catch
+
