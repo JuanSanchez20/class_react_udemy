@@ -7,4 +7,5 @@ Temas dados:
 - Formas de declarar una función
 - Desestructuración (Objetos | Arreglos)
 - Importasiones | Exportaciones
-- Promesas
+- Promesas | Encadenación
+- FetchAPI
