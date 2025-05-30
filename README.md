@@ -10,4 +10,5 @@ Temas dados:
 - Promesas | Encadenación
 - FetchAPI | fetch
 - Async | Await | Try | Catch
+- Condiciones ternarias
 
