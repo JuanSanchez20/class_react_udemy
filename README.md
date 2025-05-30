@@ -5,3 +5,6 @@ Temas dados:
 - Collback | map
 - Variables (let) | Constantes (const)
 - Formas de declarar una función
+- Desestructuración (Objetos | Arreglos)
+- Importasiones | Exportaciones
+- Promesas
